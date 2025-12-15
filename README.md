@@ -1,1 +1,1 @@
-в gitlab новая версия есть
+в gitlab zaitsevandreyd обновленная версия проекта есть
